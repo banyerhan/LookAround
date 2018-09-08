@@ -39,6 +39,6 @@ I'm so happy if you do. Fork the project, make whatever changes you want to do a
 
 For testing it locally, there's a `web-server.js` file included in the `scripts` folder. Open up the terminal and run the JS file ( You need to have **NodeJS** installed ).
 
-For any discussions on feature requests, improvements, bugs : join me here on [![Gitter chat](https://badges.gitter.im/shidhincr/LookAround.png)](https://gitter.im/shidhincr/LookAround)
+For any discussions on feature requests, improvements, bugs : join me here on [![Gitter chat](https://badges.gitter.im/shidhincr/LookAround.png)](https://github.com/banyerhan/cuslogin/issues)
 
-Copyright (c) 2014 Shidhin C R - [Licence](LICENCE.txt)
+Copyright (c) 2018 Nightfury  - [Licence](LICENCE.txt)
